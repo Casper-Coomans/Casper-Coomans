@@ -8,7 +8,7 @@ Welcome to my GitHub corner of the internet! Here's a bit about me:
 
 ## What I'm Up To
 
-I'm diving deep into the world of web development, soaking up knowledge from an amazing teacher on youtube called "Tech with Nader." 🧠
+I'm diving deep into the world of web development, soaking up knowledge from an amazing teacher on youtube called ["Tech with Nader."](https://www.youtube.com/@TechWithNader) 🧠
 
 - Recently finished: [**Javascript in Depth**](https://www.youtube.com/watch?v=FPmgQsXMPqI&list=PLovN13bqAx7D_MFjL0PHnCkYAHMSO8-kU)
 - Currently studying: [**DOM in Depth**](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=1)
