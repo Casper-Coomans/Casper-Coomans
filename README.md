@@ -11,7 +11,7 @@ Welcome to my GitHub corner of the internet! Here's a bit about me:
 I'm diving deep into the world of web development, soaking up knowledge from an amazing teacher on youtube called "Tech with Nader." 🧠
 
 - Recently finished: **Javascript in Depth**
-- Currently studying: **DOM in Depth**
+- Currently studying: [**DOM in Depth**](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=1)
 - Next up: **React in Depth**
 
 Total hours into (re)learning programming: ⏳ ~60 hours
