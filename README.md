@@ -10,8 +10,8 @@ Welcome to my GitHub corner of the internet! Here's a bit about me:
 
 I'm diving deep into the world of web development, soaking up knowledge from an amazing teacher on youtube called ["Tech with Nader."](https://www.youtube.com/@TechWithNader) 🧠
 
-- Recently finished: [**Javascript in Depth**](https://www.youtube.com/watch?v=FPmgQsXMPqI&list=PLovN13bqAx7D_MFjL0PHnCkYAHMSO8-kU)
-- Currently studying: [**DOM in Depth**](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=1)
+- Recently finished: [**Javascript in Depth**](https://www.youtube.com/watch?v=FPmgQsXMPqI&list=PLovN13bqAx7D_MFjL0PHnCkYAHMSO8-kU) & [**DOM in Depth**](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=1)
+- Currently studying: [**Rest API in Depth**](https://www.youtube.com/watch?v=ofdh_csJWTg&list=PLovN13bqAx7DOGGjHbVGH9XkjtQTykREl&index=1)
 - Next up: [**React in Depth**](https://www.youtube.com/watch?v=qnrYvsBdtD8&list=PLovN13bqAx7CKHNJnW3npFEXlXUQBghNI)
 
 Total hours into (re)learning programming: ⏳ ~60 hours
